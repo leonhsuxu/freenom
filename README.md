@@ -333,4 +333,4 @@ $ cd /data/wwwroot/freenom/ && php run
 [MIT](https://opensource.org/licenses/mit-license.php)
 
 
-为了免费域名也是拼了
+为了免费域名也是拼了，我是要啥啥不会
